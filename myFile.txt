@@ -1,3 +1,4 @@
 This is the first line.
 I am adding this line from my xyz new branch i.e "Branch-One".
 Again adding a new line from Locally.
+I am a new line without any conflicts
