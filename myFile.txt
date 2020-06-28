@@ -2,3 +2,4 @@ This was first line.I m changing it again from remote.
 I am adding this line from my xyz new branch i.e "Branch-One".
 Again adding a new line from Locally.
 want to get conflicts
+git fetch learn
