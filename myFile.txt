@@ -1,4 +1,4 @@
 This was first line.I m changing it again from remote.
 I am adding this line from my xyz new branch i.e "Branch-One".
 Again adding a new line from Locally.
-I am a new line without any conflicts
+want to get conflicts
